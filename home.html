@@ -21,7 +21,7 @@
     </header>
 <br>
     <main>
-        <img class="imagecontainer" src="../images/shenzhen city.png" alt="city of shenzhen">
+        <img class="imagecontainer" src="../images/shenzhencity.png" alt="city of shenzhen">
 
         <section>
 
